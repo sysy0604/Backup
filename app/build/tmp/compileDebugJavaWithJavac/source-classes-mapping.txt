@@ -1,0 +1,8 @@
+com/example/project_210722/BuildConfig.java
+ com.example.project_210722.BuildConfig
+com/example/project_210722/MainActivity.java
+ com.example.project_210722.MainActivity
+ com.example.project_210722.MainActivity$1
+ com.example.project_210722.MainActivity$2
+ com.example.project_210722.MainActivity$3
+ com.example.project_210722.MainActivity$4
